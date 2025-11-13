@@ -1,0 +1,62 @@
+English → Telugu Translation Samples (Extended)
+-------------------------------------------------------
+
+1)
+EN: "The government will release the final report next week."
+TE: "ప్రభుత్వం వచ్చే వారం చివరి నివేదికను విడుదల చేస్తుంది."
+
+2)
+EN: "Please complete the form before submitting your application."
+TE: "దయచేసి మీ దరఖాస్తును సమర్పించే ముందు ఫారమ్‌ను పూర్తిచేయండి."
+
+3)
+EN: "This platform helps train AI models to understand Telugu better."
+TE: "ఈ వేదిక AI మోడళ్లకు తెలుగు‌ను మెరుగ్గా అర్థం చేసుకోవడంలో సహాయపడుతుంది."
+
+4)
+EN: "Your registration has been successfully completed."
+TE: "మీ నమోదు విజయవంతంగా పూర్తయ్యింది."
+
+5)
+EN: "He promised to finish the work by tomorrow."
+TE: "ఆయన పని రేపటికి పూర్తి చేస్తానని హామీ ఇచ్చాడు."
+
+6)
+EN: "Please restart the device to apply the new settings."
+TE: "కొత్త సెట్టింగ్‌లను అమలు చేయడానికి దయచేసి పరికరాన్ని మళ్లీ ప్రారంభించండి."
+
+7)
+EN: "This policy will be effective from next month."
+TE: "ఈ విధానం వచ్చే నెల నుండి అమల్లోకి వస్తుంది."
+
+8)
+EN: "The app provides real-time traffic updates."
+TE: "యాప్ రియల్ టైమ్ ట్రాఫిక్ అప్‌డేట్‌లను అందిస్తుంది."
+
+9)
+EN: "Thank you for your patience during the maintenance period."
+TE: "మెయింటెనెన్స్ సమయంలో చూపిన సహనానికి ధన్యవాదాలు."
+
+10)
+EN: "Your order is out for delivery."
+TE: "మీ ఆర్డర్ డెలివరీ కోసం బయలుదేరింది."
+
+11)
+EN: "Weather conditions may cause delays in transportation."
+TE: "వాతావరణ పరిస్థితులు రవాణాలో ఆలస్యాలకు కారణం కావచ్చు."
+
+12)
+EN: "Please verify your phone number to continue."
+TE: "కొనసాగేందుకు దయచేసి మీ ఫోన్ నంబర్‌ను ధృవీకరించండి."
+
+13)
+EN: "Make sure your password contains at least 8 characters."
+TE: "మీ పాస్‌వర్డ్‌లో కనీసం 8 అక్షరాలు ఉన్నాయని నిర్ధారించండి."
+
+14)
+EN: "The service will be temporarily unavailable tonight."
+TE: "సేవ ఈ రాత్రి తాత్కాలికంగా అందుబాటులో ఉండదు."
+
+15)
+EN: "He has applied for the internship program."
+TE: "ఆయన ఇంటర్న్‌షిప్ ప్రోగ్రామ్‌కు దరఖాస్తు చేసుకున్నారు."

@@ -1,0 +1,62 @@
+Telugu → English Translation Samples (Extended)
+-------------------------------------------------------
+
+1)
+TE: "ఈ సమావేశం చాలా ముఖ్యమైనది."
+EN: "This meeting is very important."
+
+2)
+TE: "అతను త్వరలో ఇక్కడికి వస్తాడు."
+EN: "He will come here soon."
+
+3)
+TE: "వాళ్లు కొత్త ప్రాజెక్ట్‌పై పని చేస్తున్నారు."
+EN: "They are working on a new project."
+
+4)
+TE: "ఈ నిర్ణయం అందరికీ మంచిదిగా ఉంటుంది."
+EN: "This decision will be good for everyone."
+
+5)
+TE: "నేను మీ సూచనలను అనుసరిస్తాను."
+EN: "I will follow your instructions."
+
+6)
+TE: "ఆమె ఈ పని చాలా సమర్థవంతంగా చేసింది."
+EN: "She did this work very efficiently."
+
+7)
+TE: "ఇది చాలా అరుదైన అవకాశం."
+EN: "This is a very rare opportunity."
+
+8)
+TE: "నేను ఈ కోర్సులో చేరాలనుకుంటున్నాను."
+EN: "I want to join this course."
+
+9)
+TE: "వాతావరణం ఆకస్మికంగా మారిపోయింది."
+EN: "The weather changed suddenly."
+
+10)
+TE: "ఈ ప్రాంతంలో ఇంటర్నెట్ కనెక్షన్ బలహీనంగా ఉంది."
+EN: "The internet connection is weak in this area."
+
+11)
+TE: "ఆమె తన పరీక్షల్లో ఉత్తీర్ణురాలైంది."
+EN: "She passed her examinations."
+
+12)
+TE: "ఇది నిజంగా సహాయకరమైన సమాచారం."
+EN: "This is truly helpful information."
+
+13)
+TE: "పని పూర్తి చేయడానికి ఇంకొంత సమయం అవసరం."
+EN: "More time is needed to complete the work."
+
+14)
+TE: "దయచేసి మీ వివరాలను మళ్లీ చెక్ చేయండి."
+EN: "Please check your details again."
+
+15)
+TE: "నాకు ఈ పుస్తకం చాలా నచ్చింది."
+EN: "I really liked this book."
